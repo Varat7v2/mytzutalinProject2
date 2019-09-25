@@ -1,3 +1,9 @@
+This is the modified verision of https://github.com/tzutalin/dlib-android-app and https://github.com/tzutalin/dlib-android.
+
+This is entirely copy of the original project by Tzutalin dlib-android-app with small changes in the gradle file and other automatic updated files compatible to my android-studio verision and my mobile device.
+
+I would like to thank tzutalin for making this project public. For original copy, you can visit https://github.com/tzutalin/dlib-android-app
+
 ## dlib-android-app
 
 [![Build Status](https://travis-ci.org/tzutalin/dlib-android-app.png)](https://travis-ci.org/tzutalin/dlib-android-app)
